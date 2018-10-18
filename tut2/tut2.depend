@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1539873678 source:f:\objectiv c++ tut\tut2\main.cpp
+	<iostream>
+	"pytanie.h"
+
+1539873531 source:f:\objectiv c++ tut\tut2\src\pytanie.cpp
+	"pytanie.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1539872959 f:\objectiv c++ tut\tut2\include\pytanie.h
+	<iostream>
+
